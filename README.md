@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @royricky
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me @iamrickyroy_  [Twitter,Instagram]
+Cybersecurity enthusiast dedicated to fortifying digital landscapes. 
+
+🔐 | Ethical hacker by day, code defender by night. 
+
+💼 | Constantly learning and adapting to the ever-evolving threat landscape. 
+
+🌐 | Securing bytes and building safer online spaces. #Cybersecurity #InfoSec
 
 <!---
 royricky/royricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
