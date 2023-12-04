@@ -1,10 +1,10 @@
-Cybersecurity enthusiast dedicated to fortifying digital landscapes. 
+Cybersecurity & Crypto ninja navigating the digital frontier. 
 
-🔐 | Ethical hacker by day, code defender by night. 
+🔒 | Passionate about securing code and fortifying financial landscapes. 💻
 
-💼 | Constantly learning and adapting to the ever-evolving threat landscape. 
+💰 | Ethical hacker by day, blockchain explorer by night. 
 
-🌐 | Securing bytes and building safer online spaces. #Cybersecurity #InfoSec
+🌐 | Building robust defenses and unlocking the potential of decentralized tech. #CyberSecurity #CryptoEnthusiast
 
 <!---
 royricky/royricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
